@@ -15,7 +15,6 @@ Sitio web para el restaurante Sabores del Alma, una experiencia culinaria única
 - HTML5
 - CSS3
 - Bootstrap 5
-- Font Awesome
 - Python (servidor web)
 
 ## Cómo ejecutar el proyecto
